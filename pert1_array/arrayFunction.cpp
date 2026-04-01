@@ -23,7 +23,7 @@ int main() {
     n[1] = 20;
     n[2] = 30;
 
-    cout << "The average of: " << Average(n) << endl;
+    cout << "The average of the array: " << Average(n) << endl;
 
     return 0;
 }

@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    system("cls");
+    // system("cls");
 
     int arr[2][2]; // first [] = Row, second [] = Column
 

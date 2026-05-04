@@ -1,4 +1,4 @@
-// How to declare Struct and Inout & Show the value of them
+// How to declare a Struct + Input & Show the value of them
 
 // Study case: Inputing students data
 #include <iostream>

@@ -1,6 +1,6 @@
 // Implements Array as a Function
 
-// Study case : the average count of an array
+// Study case : The average count of an array
 #include <iostream>
 using namespace std;
 

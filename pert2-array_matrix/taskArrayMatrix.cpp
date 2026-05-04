@@ -1,4 +1,4 @@
-// Task: make an input system for Array 2D
+// Task: make an input system for a 2D Array
 #include<iostream>
 using namespace std;
 

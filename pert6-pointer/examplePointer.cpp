@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     system("clear");
 
-    // Pointer in Normal variable
+    // Pointer for Normal variable
     int x = 7;
     int *a;
     a = &x;
@@ -16,7 +16,7 @@ int main() {
     cout << "Value of x: " << x << endl;
     cout << endl;
     
-    // Pointer in Array
+    // Pointer for Array
     int data[5] = {10, 13, 20, 30, 55}; // 1D Array
     int *d = data;
     

@@ -29,7 +29,7 @@ int main() {
     cout << "Data berapa yang ingin di rubah (index): "; cin >> index; 
     (p+index)->NIM = 12345;
     (p+index)->NAMA = "Agus";
-    (p+index)->IPK = 3.3;
+    (p+index)->IPK = 3.1;
 
     cout << "===== PEMAPARAN DATA =====" << endl;
     for (int i=0; i<batas; i++) {

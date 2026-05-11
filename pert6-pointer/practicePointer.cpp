@@ -42,7 +42,7 @@ int main() {
     // int *ptr;
     // ptr = &var;
 
-    // *ptr = 90;
+    // *ptr = 92;
 
     // cout << "Nilai variabel var: " << var << endl;
     // cout << "Alamat variabel var: " << &var << endl;
